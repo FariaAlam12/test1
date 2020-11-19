@@ -1,0 +1,139 @@
+body{
+    background:#F4F4F4;
+    margin:0;
+}
+
+
+.title{
+    text-decoration:none;
+    font-size:24px;
+    color:#6D214F;
+}
+
+
+
+#contact .page-heading{
+    text-align:center;
+    
+    margin-bottom: 20px;
+    
+}
+
+.container{
+    width:780px;
+    margin:0 auto;
+    background:#FFF;
+}
+
+.header{
+    padding:45px 0 20px 40px;
+    border:2px solid black;
+}
+
+
+.menu{
+    background:royalblue;
+    padding:6px 0 6px 40px;
+}
+
+.menu a{
+    color:#fad390;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: "Arial Narrow","Myriad Pro";
+}
+
+.menu a:hover{
+    color:white;
+}
+
+
+aside {
+    float:left;
+    width:120px;
+    padding:30px 0 0 40px;
+}
+
+h1 {
+    margin: 0px;
+    color:#079992;
+    font-size:24px;
+    font-weight:normal;
+
+}
+
+
+
+.main{
+    margin:0 0 0 180px;
+    padding:35px 40px 30px 0;
+    color:#444444;
+    font-family:"Georgia";
+    font-size:13px;
+    line-height: 18px;/* increasing more space betn lines*/
+    text-align: justify;
+}
+
+#homeimage img{
+    width:100%;
+}
+
+
+footer{
+    padding :9px 40px 6px 40px;
+    background:#FEA47F;
+    font-family:"Lucida Sans Unicode";
+    color:#444444;
+    font-size:11px;
+    text-decoration: right;
+}
+
+.separator{
+    color:white;
+    font-size:15px;
+}
+
+
+
+/**********about page**************/
+
+#about-page #homeimage img{
+    width:30%;
+    float:left;
+    margin-bottom: 10px;
+}
+
+#about-page #profile{
+    float:right;
+    width:60%;
+    margin:30px 10px 10px 40px;
+
+
+}
+
+#about-page p{
+    clear:both;
+}
+
+
+
+/**********Contact*************/
+
+
+#contact #form{
+
+    width:500px;
+    border:2px solid black;
+    padding:10px 10px 10px 10px;
+    margin:0 auto;
+}
+
+#contact #form{
+    width:100%;
+    border-radius:5px;
+}
+
+
+
+
+
